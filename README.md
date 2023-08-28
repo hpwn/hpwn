@@ -20,7 +20,7 @@
 
 ## Let's Connect 🌐
 
-- 🐦 ~~Twitter~~X: [hwplivnlow](https://twitter.com/hwplivnlow)
+- 🐦 ~~Twitter~~ X: [hwplivnlow](https://twitter.com/hwplivnlow)
 - 📺 Twitch: [hp_az](https://twitch.tv/hp_az)
 - 📧 Email: hwplivnlow@gmail.com
 - 📚 Blog: TBD
