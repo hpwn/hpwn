@@ -14,7 +14,7 @@
 ## What I'm Working On 💻
 
 - 🔐 AI-powered productivity and education tools
-- 🎮 Mods for popular games
+- 🎮 Mods for ~~popular~~ games
 - 🚶 IRL Streaming
 - ⚡ Speedrunning analytics, training, and tools
 - 📚 Educational content for devs and students
