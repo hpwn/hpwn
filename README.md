@@ -13,10 +13,10 @@
 
 ## What I'm Working On 💻
 
-- 🔐 AI-powered productivity and education tools
+- 🔐 AI-powered productivity and security
 - 🎮 Mods for ~~popular~~ games
 - 🚶 IRL Streaming
-- ⚡ Speedrunning analytics, training, and tools
+- ⚡ Speedrunning tools, analytics, and training
 - 📚 Educational content for devs and students
 
 ## Let's Connect 🌐
