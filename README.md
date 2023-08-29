@@ -13,9 +13,10 @@
 
 ## What I'm Working On 💻
 
-- 🔐 AI-powered security tools
+- 🔐 AI-powered productivity and education tools
 - 🎮 Mods for popular games
-- ⚡ Speedrunning analytics and tools
+- 🚶 IRL Streaming
+- ⚡ Speedrunning analytics, training, and tools
 - 📚 Educational content for devs and students
 
 ## Let's Connect 🌐
