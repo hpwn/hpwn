@@ -9,7 +9,7 @@
 👔 Love exploring **self-care** and **style**.  
 🛡️ Into **ethical hacking**.  
 👫 Believer in the power of **friendships**.  
-📺 Catch me live at [Twitch](https://twitch.tv/hp_az).
+📺 Catch me live at [Twitch](https://twitch.tv/hp_az) or watch a vod
 
 ## What I'm Working On 💻
 
