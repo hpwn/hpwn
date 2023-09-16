@@ -16,7 +16,7 @@
 - 🔐 AI-powered productivity and security  
 - 🎮 Mods for ~~popular~~ games  
 - 🚶 IRL Streaming  
-- ⚡ Speedrunning tools, analytics, and training  
+- ⚡ Speedrunning, tools, analytics, and training  
 - 📚 Educational content for devs and students  
 
 ## Let's Connect 🌐
