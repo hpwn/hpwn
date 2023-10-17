@@ -37,5 +37,5 @@ Want to chat about AI, speedrunning, or a free and open internet?
 ## Fun Facts 😄
 
 🏋️ I love leg day!  
-🚴 El Tour De Tucson finisher (over 100 miles in 7hrs 14mins)
+🚴 El Tour De Tucson finisher (over 100 miles in 7hrs 14mins)  
 🤌🏻 Professional Guitar Hero player (washed up?)
