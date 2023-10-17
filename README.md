@@ -36,6 +36,6 @@ Want to chat about AI, speedrunning, or a free and open internet?
 
 ## Fun Facts 😄
 
-🥺 I miss playing Melee and Crash on the big CRT  
 🏋️ I love leg day!  
 🚴 El Tour De Tucson finisher (over 100 miles in 7hrs 14mins)
+🤌🏻 Professional Guitar Hero player (washed up?)
