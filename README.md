@@ -1,4 +1,4 @@
-# Hi there, I'm Hayden 🌟 LET'S BREAK ## EVERYTHING!!!!!!
+# Hi there, I'm Hayden 🌟
 
 ## About Me 🚀
 
