@@ -2,7 +2,7 @@
 
 ## About Me 🚀
 
-🎓 Graduating in Computer Science from the University of Arizona in Dec 2023  
+🎓 Computer Science Grad - University of Arizona, Dec 2023  
 🛠️ On a mission to build AI-powered tools for **students**, **gamers**, **developers**, and **humans**  
 🎮 Super passionate about the **modding** and **speedrunning** community  
 🍱 Also a fan of **meal prepping**, **lifting**, and **cycling**  
