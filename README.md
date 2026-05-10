@@ -24,7 +24,9 @@ Data cleanup and transformation utilities for youth leadership seminar operation
 
 ## Stack
 
-Go, Docker, WebSockets, SQLite, React, Node, Postgres, Python, JavaScript, Tailscale/Headscale, Salesforce, ServiceNow
+Go, Docker, WebSockets, SQLite, SvelteKit, React, Node, Postgres, Python, JavaScript, Tailscale/Headscale, Salesforce, ServiceNow
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hpwn&layout=compact&langs_count=6&hide=css,html)](https://github.com/hpwn)
 
 ---
 
